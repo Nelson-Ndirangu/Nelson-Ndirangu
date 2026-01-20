@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nelson Maina and I'm a Computer Science graduate and a Software Engineer.</p>
+<p align="left">My name is Nelson Maina, a Computer Science graduate and a Backend Software Engineer.</p>
 
 ###
 
